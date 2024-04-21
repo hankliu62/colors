@@ -1,7 +1,7 @@
 ---
 title: Colors 案例
 nav:
-  title: Colors 案例
+  title: 案例
   path: /colors/demo
 ---
 

@@ -4,11 +4,11 @@
 
 [npm-image]: http://img.shields.io/npm/v/@hankliu/colors.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@hankliu/colors
-[travis-image]: https://img.shields.io/travis/hankliu62/icons/master?style=flat-square
-[github-actions-image]: https://github.com/hankliu62/icons/workflows/CI/badge.svg
-[github-actions-url]: https://github.com/hankliu62/icons/actions
-[codecov-image]: https://img.shields.io/codecov/c/github/hankliu62/icons/master.svg?style=flat-square
-[codecov-url]: https://app.codecov.io/gh/hankliu62/icons
+[travis-image]: https://img.shields.io/travis/hankliu62/@hankliu/colors/master?style=flat-square
+[github-actions-image]: https://github.com/hankliu62/@hankliu/colors/workflows/CI/badge.svg
+[github-actions-url]: https://github.com/hankliu62/@hankliu/colors/actions
+[codecov-image]: https://img.shields.io/codecov/c/github/hankliu62/@hankliu/colors/master.svg?style=flat-square
+[codecov-url]: https://app.codecov.io/gh/hankliu62/@hankliu/colors
 [download-image]: https://img.shields.io/npm/dm/@hankliu/colors.svg?style=flat-square
 [download-url]: https://npmjs.org/package/@hankliu/colors
 [bundlephobia-url]: https://bundlephobia.com/package/@hankliu/colors
@@ -121,7 +121,7 @@ console.log(presetDarkPalettes);
 
 `npm start` 然后打开 http://localhost:8000/examples/
 
-线上案例: https://hankliu62.github.io/icons/colors
+线上案例: https://hankliu62.github.io/colors
 
 ## 单元测试
 

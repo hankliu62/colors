@@ -1,6 +1,6 @@
 {
   "name": "@hankliu/colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Color palettes calculator of HankLiu UI",
   "homepage": "https://github.com/hankliu62/colors",
   "bugs": {
@@ -32,7 +32,7 @@
     "coverage": "npm test -- --coverage"
   },
   "dependencies": {
-    "@ctrl/tinycolor": "^4.1.0"
+    "@ctrl/tinycolor": "^3.6.1"
   },
   "devDependencies": {
     "@babel/eslint-plugin": "^7.23.5",
